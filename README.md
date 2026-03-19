@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel Gomes de Andrade</h1>
+<h1 align="center">Olá 👋, Eu sou Gabriel Gomes de Andrade</h1>
 <h3 align="center">Estudante</h3>
 
 -ADS (CESAR School)  
