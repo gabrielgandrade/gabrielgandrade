@@ -23,7 +23,6 @@ Sou estudante de **ADS (CESAR School)** e **Administração (UFPE)**, com perfil
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
 ![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=00979D)
 
 </div>
@@ -33,8 +32,8 @@ Sou estudante de **ADS (CESAR School)** e **Administração (UFPE)**, com perfil
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielgandrade&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgandrade&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58A6FF" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielgandrade&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&count_private=true&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielgandrade&hide_border=true&theme=github-dark-blue&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </div>
 
 <br/>
