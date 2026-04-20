@@ -1,25 +1,49 @@
-# Gabriel Gomes de Andrade
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+Gabriel+%F0%9F%91%8B;ADS+%2B+Administra%C3%A7%C3%A3o;Tech+%2B+Neg%C3%B3cios+%2B+Dados" alt="Typing SVG" />
+</div>
 
-> Estudante na interseção entre negócios e tecnologia.
+<br/>
 
-ADS @ CESAR School · Administração @ UFPE · Recife, PE
+Sou estudante de **ADS (CESAR School)** e **Administração (UFPE)**, com perfil analítico e interesse na interseção entre negócios e tecnologia. Estou direcionando meus estudos para dados, desenvolvimento e soluções tecnológicas aplicadas a problemas reais.
 
----
+<br/>
 
-### O que eu faço
+## 🧰 Tecnologias
 
-Tenho perfil analítico e gosto de entender como sistemas, dados e processos funcionam para apoiar a tomada de decisão. Atualmente direcionando meus estudos para dados, desenvolvimento e soluções tecnológicas aplicadas a problemas reais.
+<div align="left">
 
----
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58A6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=00979D)
 
-### Stack
+</div>
 
-`Python` `JavaScript` `TypeScript` `Java` `C`  
-`React` `PostgreSQL` `MySQL`  
-`Docker` `AWS` `Git` `Linux` `Arduino`
+<br/>
 
----
+## 📊 GitHub Stats
 
-### Onde me encontrar
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58A6FF" />
+</div>
 
-[LinkedIn](https://www.linkedin.com/in/gabriel-andrade-0542ba1ab) · [Instagram](https://instagram.com/gabriel.gandrad)
+<br/>
+
+## 🤝 Contato
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/gabriel-andrade-0542ba1ab)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/gabriel.gandrad)
+
+</div>
