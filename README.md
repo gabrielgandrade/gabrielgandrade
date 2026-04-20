@@ -33,8 +33,8 @@ Sou estudante de **ADS (CESAR School)** e **Administração (UFPE)**, com perfil
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58A6FF" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielgandrade&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgandrade&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58A6FF" />
 </div>
 
 <br/>
